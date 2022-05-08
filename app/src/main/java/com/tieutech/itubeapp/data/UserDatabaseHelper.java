@@ -177,6 +177,4 @@ public class UserDatabaseHelper extends SQLiteOpenHelper {
 
         db.close();
     }
-
-
 }
