@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iTube App</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_home">Home</string>
+    <string name="my_playlist">My Playlist</string>
+    <string name="play_youtube">Play YouTube</string>
+
+</resources>
